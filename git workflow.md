@@ -25,11 +25,11 @@ GitHub : a web-based Git or version control repository and Internet hosting serv
 - - -
 ## how ##
 ### Create a branch ###
-![1](/pic/1.png)
+![1](front-end-practice/1.png)
 where to try out new ideas and don't affect the *master* branch
 - - -
 ### Add commits ###
-![2](/pic/2.png)
+![2](/front-end-practice/2.png)
 keeps track of your progress as you work on a feature branch
 
 create a transparent history that others can follow to understand what you've done and why
