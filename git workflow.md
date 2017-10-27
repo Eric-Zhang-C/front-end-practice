@@ -25,7 +25,7 @@ GitHub : a web-based Git or version control repository and Internet hosting serv
 - - -
 ## how ##
 ### Create a branch ###
-![1](front-end-practice/1.png)
+![1](https://github.com/Eric-Zhang-C/front-end-practice/blob/git-workflow/1.png)
 where to try out new ideas and don't affect the *master* branch
 - - -
 ### Add commits ###
